@@ -1,8 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Itim&family=Play:wght@400;700&display=swap");
-
 body {
     background: white;
-    font-family: 'Courier New';
+    font-family: 'poppins';
 }
 
 .g1 {
@@ -40,7 +38,7 @@ body {
 .group1 button {
     padding: 5px 30px;
     font-weight: bold;
-    font-family: 'Courier New';
+    font-family: 'poppins';
     z-index: 4444;
     border: 2px solid red;
 }
@@ -73,7 +71,7 @@ body {
 #btn1 {
     padding: 5px 30px;
     font-weight: bold;
-    font-family: 'Courier New';
+    font-family: 'poppins';
     border: 2px solid black;
 }
 
@@ -90,7 +88,7 @@ body {
 #btn2 {
     padding: 5px 30px;
     font-weight: bold;
-    font-family: 'Courier New';
+    font-family: 'poppins';
     border: 2px solid black;
 }
 
@@ -102,7 +100,7 @@ body {
 #btn3 {
     padding: 5px 30px;
     font-weight: bold;
-    font-family: 'Courier New';
+    font-family: 'poppins';
     border: 2px solid black;
 }
 
